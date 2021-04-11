@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mo
+Created on 
 
 @author: ULVI PC
 """
