@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Create
+Cre
 
 @author: ULVI PC
 """
