@@ -1,6 +1,6 @@
 # 
 """
-Created on Wed Jan 10:47
+Created on Wed Jan 10
 
 @author: ULVI PC
 """
