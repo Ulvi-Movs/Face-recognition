@@ -6,7 +6,7 @@ import torch.nn.functional as F
 from models import Net
 
 net = Net()
-#print(net)
+
 
 from torch.utils.data import Dataset, DataLoader
 from torchvision import transforms, utils
