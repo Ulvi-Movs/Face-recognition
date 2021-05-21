@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: ULVI
+@author: ULV
 """
 import glob
 import os
