@@ -1,4 +1,4 @@
-## TODO: define the convolutional neural network architectu
+## TODO: define the convolutional neural network architect
 
 import torch
 from torch.autograd import Variable
