@@ -22,7 +22,7 @@ print(device)
 net.to(device)
 #test_images, labels = test_images[0].to(device), test_images[1].to(device)
 
-# order matters! i.e. rescaling should come before a smaller crop
+# order matters! i.e. rescaling should come before a smaller crops
 data_transform = transforms.Compose([Rescale(250),
                                      RandomCrop(224),
                                      Normalize(),
