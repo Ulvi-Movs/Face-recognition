@@ -2,7 +2,7 @@
 """
 Created on Wed Ja
 
-@author: ULVI PC
+@author: ULVI P
 """
 
 import numpy as np
