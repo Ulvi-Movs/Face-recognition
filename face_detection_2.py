@@ -41,7 +41,7 @@ transformed_dataset = FacialKeypointsDataset(csv_file='P1_Facial_Keypoints-maste
 
 print('Number of images: ', len(transformed_dataset))
 
-# load training data in batches
+# load training data in batch
 batch_size = 32
 
 train_loader = DataLoader(transformed_dataset, 
