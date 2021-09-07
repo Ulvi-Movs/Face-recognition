@@ -11,7 +11,7 @@ net = Net()
 from torch.utils.data import Dataset, DataLoader
 from torchvision import transforms, utils
 
-# the dataset we created in Notebook 1 is copied in the helper file `data_load.py`
+# the dataset we created is copied in the helper file `data_load.py`
 from face_detection_1 import FacialKeypointsDataset
 # the transforms we defined in Notebook 1 are in the helper file `data_load.py`
 from face_detection_1 import Rescale, RandomCrop, Normalize, ToTensor
